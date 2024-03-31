@@ -25,3 +25,5 @@
 [27-Mar-2024 02:23:48 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
 [28-Mar-2024 11:49:18 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
 [28-Mar-2024 11:49:48 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[31-Mar-2024 02:43:09 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[31-Mar-2024 02:43:11 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
